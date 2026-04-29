@@ -12,3 +12,4 @@ console.log("Total = 290");
 
 console.log("friedrice is tasty");
 console.log("parotta is so soft");
+console.log("chicken 65 is very yummy");
