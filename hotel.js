@@ -10,4 +10,5 @@ console.log("You ordered Fried Rice");
 
 console.log("Total = 290");
 
+console.log("friedrice is tasty");
 console.log("parotta is so soft");
