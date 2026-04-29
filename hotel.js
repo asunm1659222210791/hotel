@@ -1,9 +1,13 @@
-// hotel.js
+console.log("Hotel Menu");
 
-let total = 0;
+console.log("Chicken Biryani - 150");
+console.log("Parotta - 20");
+console.log("Fried Rice - 120");
 
-function order(item, price) {
-    total += price;
-    console.log("Ordered: " + item);
-    document.getElementById("total").innerText = "Total: ₹" + total;
-}
+console.log("You ordered Chicken Biryani");
+console.log("You ordered Parotta");
+console.log("You ordered Fried Rice");
+
+console.log("Total = 290");
+
+console.log("friedrice is tasty");
